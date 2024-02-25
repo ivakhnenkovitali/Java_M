@@ -1,0 +1,9 @@
+server:
+  port: 7080
+my:
+  client:
+    bravo:
+      scheme: http
+      host: localhost
+      port: 7081
+      endpoint: ping
